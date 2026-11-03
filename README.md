@@ -1,11 +1,1 @@
-<table>
-  <tr>
-    <td width="50%">
-      <img width="400" height="250" alt="Tumblr_l_153149978500897 (1)" src="https://github.com/user-attachments/assets/13a6b3fe-5786-4349-a4db-e54fc179c2e0" />
-    </td>
-    <td width="50%">
-      <p>semi-verbal　₊　mentally and physically unwell and unstable</p>
-      <p>level 3 RRBs and level 2 SC Autism</p>
-    </td>
-  </tr>
-</table>
+<img width="900" height="550" alt="Tumblr_l_153149978500897 (1)" src="https://github.com/user-attachments/assets/13a6b3fe-5786-4349-a4db-e54fc179c2e0" />
