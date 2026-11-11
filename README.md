@@ -8,8 +8,6 @@ My kamioshi and yumeship is with Malleus Draconia from Twisted Wonderland as he'
 <br>
 <br>
 Kindly be mindful that I'm diagnosed autistic, which often causes me to have episodes where I become hostile or irrational.
-<br>
-<br>
     </td>
   </tr>
 </table>
