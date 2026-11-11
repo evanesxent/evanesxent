@@ -1,13 +1,1 @@
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img width="174" height="405" alt="common_1710400_000_idle" src="https://64.media.tumblr.com/81b8d89c290d43dacec820b3125d17a9/c7f36ef36bb26444-0f/s500x750/65880d2c47a1953a64c63d08cf081a03c081bc8c.pnj" />
-    </td>
-    <td width="50%">
-I yumeship with Malleus Draconia from Twisted Wonderland, I'm a mix of non-sharing and selective-sharing.
-<br>
-<br>
-Kindly be mindful that I'm diagnosed as autistic, which often causes me to have episodes where I become hostile or irrational.
-    </td>
-  </tr>
-</table>
+<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/56f2aac3-5b81-47bc-9e4d-fb7057767628" />
