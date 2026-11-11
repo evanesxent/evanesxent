@@ -1,1 +1,14 @@
- <img width="1040" height="604" alt="tumblr_8cd7531933865370035b8032e74fd423_922f5438_540" src="https://github.com/user-attachments/assets/6c101935-e1b1-4e44-938c-5d3812fca9ab" />
+![](https://komarev.com/ghpvc/?evanesxent&label=Malleuslings&color=lightgrey)
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img width="374" height="705" alt="common_1710400_000_idle" src="https://github.com/user-attachments/assets/d1f7ff77-22cc-4755-a0e6-b8fe87a857ec" />
+    </td>
+    <td width="50%">
+<details>
+<summary><b>Before You Befriend</b></summary>
+
+</details>
+    </td>
+  </tr>
+</table>
